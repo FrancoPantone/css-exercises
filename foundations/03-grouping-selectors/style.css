@@ -1,0 +1,14 @@
+.botonUno {
+    background-color: black;
+    color: white;
+}
+
+.botonDos {
+    background-color: yellow;
+}
+
+.botonUno,
+.botonDos {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}

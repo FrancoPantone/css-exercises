@@ -1,20 +1,20 @@
-# Grouping Selectors
+# Selectores de agrupación
 
-Let's build a little off the previous exercise, in which you (hopefully) added multiple classes to a single element in order to apply two different rules to it.
+Construyamos un poco a partir del ejercicio anterior, en el que (con suerte) agregó varias clases a un solo elemento para aplicarle dos reglas diferentes.
 
-Instead of having a single element with two different rules applied, though, you're instead going to give two elements each a unique class name, then add rules for styles that both elements share as well as their own unique styles. Make sure you take a good look at the outcome image below to see exactly what is unique about each element, and what both elements have in common.
+Sin embargo, en lugar de tener un solo elemento con dos reglas diferentes aplicadas, le dará a dos elementos, cada uno de ellos, un nombre de clase único, luego agregará reglas para los estilos que ambos elementos comparten, así como sus propios estilos únicos. Asegúrese de mirar bien la imagen de resultado a continuación para ver exactamente qué es único en cada elemento y qué tienen en común ambos elementos.
 
-This will help you further practice adding classes and using class selectors, so be sure you add the class attribute in the HTML file. For the remainder of these exercises, the format of any colors is entirely up to you; we trust you'll practice using the different values! The properties you need to add to each element are:
+Esto lo ayudará a seguir practicando la adición de clases y el uso de selectores de clases, así que asegúrese de agregar el atributo de clase en el archivo HTML. Para el resto de estos ejercicios, el formato de cualquier color depende totalmente de usted; ¡Confiamos en que practicarás usando los diferentes valores! Las propiedades que necesita agregar a cada elemento son:
 
-* **The first element**: a black background and white text
-* **The second element**: a yellow background
-* **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback 
+* **El primer elemento**: un fondo negro y texto blanco
+* **El segundo elemento**: un fondo amarillo
+* **Ambos elementos**: un tamaño de fuente de 28px y una lista de fuentes que contienen `Helvetica` y `Times New Roman`, con `sans-serif` como respaldo
 
 ## Desired Outcome
 ![desired outcome](./desired-outcome.png)
 
 
-### Self Check
-- Does each element have a unique class name?
-- Did you use the grouping selector for styles that both elements share?
-- Did you make separate rules for the styles unique to each element?
+### Autochequeo
+- ¿Cada elemento tiene un nombre de clase único?
+- ¿Utilizó el selector de agrupación para los estilos que comparten ambos elementos?
+- ¿Hiciste reglas separadas para los estilos únicos para cada elemento?
